@@ -2,7 +2,6 @@ import os
 import random
 import openai
 
-openai.api_key = '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'
 
 #print('Enter your OpenAI API Key:')
 #key = input()
